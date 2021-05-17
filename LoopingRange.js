@@ -1,6 +1,6 @@
 function range(start, end, step){
-    let list = [];
-    for (let i = start; i <= end; i = i + step){
+    list = [];
+    for (i = start; i <= end; i = i + step){
         list.push(i);
     }
     return list;
