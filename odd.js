@@ -5,4 +5,4 @@ function isOdd(number){
         console.log("false")
     }
 }
-isOdd(5);
+isOdd(5);  
